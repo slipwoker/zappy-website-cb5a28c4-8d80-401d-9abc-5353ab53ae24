@@ -632,6 +632,160 @@ You'll need your username, the email address associated with the account, and an
 
 
 
+Live Verification
+
+## Ticket Verification Status
+
+
+We physically check every support ticket to ensure it's verified and fully functional. If a ticket fails verification, our team resolves it immediately.
+
+
+
+
+
+
+
+#RBX-4821
+
+
+Verified
+
+
+
+### Login Failure After Update
+
+
+User unable to log in after the latest Roblox client update. Credentials verified, 2FA bypass confirmed working.
+
+
+
+Submitted
+2 hours ago
+
+
+Last Checked
+Just now
+
+
+
+
+
+
+
+
+
+
+#RBX-4915
+
+
+Not Verified
+
+
+
+### In-Game Purchase Not Delivered
+
+
+Robux purchased but not credited to account. Payment processed but delivery failed. Requires manual verification.
+
+
+
+Submitted
+5 hours ago
+
+
+Last Checked
+1 hour ago
+
+
+
+
+Action Required: Physical verification needed
+
+
+
+
+
+
+
+
+
+#RBX-5002
+
+
+Verified
+
+
+
+### Avatar Items Missing
+
+
+Multiple limited items disappeared from inventory. Restoration completed and verified across all servers.
+
+
+
+Submitted
+1 day ago
+
+
+Last Checked
+30 min ago
+
+
+
+
+
+
+
+
+
+
+#RBX-5110
+
+
+Not Verified
+
+
+
+### Voice Chat Not Working
+
+
+Spatial voice feature not activating despite age verification being complete. Needs server-side check.
+
+
+
+Submitted
+8 hours ago
+
+
+Last Checked
+3 hours ago
+
+
+
+
+Action Required: Physical verification needed
+
+
+
+
+
+
+
+
+
+Have an unverified ticket? We'll physically check it right now.
+
+
+Get Immediate Help
+
+
+
+
+
+
+
+
+
 
 
 
