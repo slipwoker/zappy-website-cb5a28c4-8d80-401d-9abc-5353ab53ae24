@@ -1458,6 +1458,31 @@ document.querySelectorAll('.support-card').forEach(card => {
   });
 });
 
+/* Added Component Script */
+document.addEventListener('DOMContentLoaded', function () {
+  const faqItems = document.querySelectorAll('.ro-faq-item');
+
+  faqItems.forEach(function (item) {
+    const button = item.querySelector('.ro-faq-question');
+    button.addEventListener('click', function () {
+      const isActive = item.classList.contains('active');
+
+      // Close all items
+      faqItems.forEach(function (otherItem) {
+        otherItem.classList.remove('active');
+        const otherButton = otherItem.querySelector('.ro-faq-question');
+        otherButton.setAttribute('aria-expanded', 'false');
+      });
+
+      // Toggle clicked item if it wasn't already active
+      if (!isActive) {
+        item.classList.add('active');
+        button.setAttribute('aria-expanded', 'true');
+      }
+    });
+  });
+});
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
