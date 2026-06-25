@@ -7,37 +7,37 @@
 ## Pages
 
 ### Home
-https://roblox-support-cb5a28c4.zappy5.app
+https://example.com
 Stuck in Roblox? Get instant troubleshooting guides, account recovery tips, and live help for every error. Your go-to hub for Roblox support help that actually works.
 
 ### Support Areas
-https://roblox-support-cb5a28c4.zappy5.app/support-areas
+https://example.com/support-areas
 Explore dedicated support zones covering login issues, payment errors, game bugs, and more. Find targeted roblox support help tailored to your exact problem and play again.
 
 ### Safety & Parents
-https://roblox-support-cb5a28c4.zappy5.app/safety-parents
+https://example.com/safety-parents
 Parents, take control. Learn safety settings, privacy controls, and monitoring tools to keep children secure on Roblox. Essential need help contact roblox support resources here.
 
 ### Contact
-https://roblox-support-cb5a28c4.zappy5.app/contact
+https://example.com/contact
 Ready to fix your issue? Reach our dedicated support team for personalized help. Whether it&#39;s a ban appeal or technical glitch, use this page for need help contact roblox support today.
 
 ### Thank You - Request Received
-https://roblox-support-cb5a28c4.zappy5.app/thank-you
+https://example.com/thank-you
 Thank you for contacting roblox support help. Your message has been successfully received and a ticket number has been generated.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://roblox-support-cb5a28c4.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://roblox-support-cb5a28c4.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://roblox-support-cb5a28c4.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://roblox-support-cb5a28c4.zappy5.app/contact
-- Endpoint: https://roblox-support-cb5a28c4.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -80,6 +80,6 @@ Gaming
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://roblox-support-cb5a28c4.zappy5.app/sitemap.xml
-- Robots: https://roblox-support-cb5a28c4.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://roblox-support-cb5a28c4.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
