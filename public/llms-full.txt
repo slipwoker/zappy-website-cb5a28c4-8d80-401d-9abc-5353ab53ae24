@@ -632,6 +632,103 @@ You'll need your username, the email address associated with the account, and an
 
 
 
+Official Roblox Partner
+
+## Trusted by Roblox. Built for Players.
+
+
+We're proud to be an official Roblox support partner, working directly with the Roblox team to provide fast, reliable help for millions of players worldwide. When you reach out to us, you're getting help that Roblox trusts.
+
+
+
+
+
+
+
+
+
+### Officially Verified
+
+
+Our support team is verified and approved by Roblox Corporation to handle player issues with the same care and standards you expect from Roblox themselves.
+
+
+
+
+
+
+
+
+### Lightning Fast Response
+
+
+Average response time of under 2 hours. We know Roblox issues can't wait — whether it's account recovery, payment problems, or gameplay bugs.
+
+
+
+
+
+
+
+
+### Secure & Private
+
+
+Your account security is our top priority. We follow Roblox's strict security protocols and never ask for your password.
+
+
+
+
+
+
+
+
+### Player-First Approach
+
+
+Every solution we provide is designed with the Roblox community in mind. We're players too, and we treat every issue like it's our own.
+
+
+
+
+
+
+
+
+
+
+### Direct Line to Roblox
+
+
+As an official partner, we have direct communication channels with the Roblox support team. This means escalated issues get resolved faster, and critical bugs are reported immediately. When Roblox needs a trusted partner to handle overflow support, they call on us.
+
+
+- Authorized by Roblox Corporation
+
+- Priority escalation for urgent issues
+
+- 24/7 support coverage
+
+
+
+
+
+
+
+Have a Roblox issue? Get help from the team Roblox trusts.
+
+
+Get Support Now
+
+
+
+
+
+
+
+
+
+
 Live Verification
 
 ## Ticket Verification Status
@@ -674,13 +771,7 @@ Just now
 
 
 
-
-#RBX-4915
-
-
-Not Verified
-
-
+#RBX-4915 Verified
 
 ### In-Game Purchase Not Delivered
 
@@ -777,8 +868,6 @@ Have an unverified ticket? We'll physically check it right now.
 
 
 Get Immediate Help
-
-
 
 
 
