@@ -1438,6 +1438,27 @@ document.addEventListener('DOMContentLoaded', function() {
 /* ZAPPY_BLOCK_RUNTIME_END */
 
 
+/* Added Component Script */
+// Optional: Add click handling for cards to make entire card clickable via the link
+document.querySelectorAll('.support-card').forEach(card => {
+  card.addEventListener('click', (e) => {
+    // Don't trigger if user clicked the link directly
+    if (e.target.closest('.support-card-link')) return;
+    const link = card.querySelector('.support-card-link');
+    if (link) link.click();
+  });
+  
+  // Keyboard accessibility: Enter/Space triggers the link
+  card.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      const link = card.querySelector('.support-card-link');
+      if (link) link.click();
+    }
+  });
+});
+
+
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
   try {
